@@ -1,3 +1,5 @@
+//META{"name":"AiroTheme","description":"Theme for Airo","author":"Lapse","version":"1"}*//{}
+
 .theme-dark .chat>.content .messages .message-group .comment .markup{
 	color:orange;
 }
