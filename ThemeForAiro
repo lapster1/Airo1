@@ -1,0 +1,3 @@
+.theme-dark .chat>.content .messages .message-group .comment .markup{
+	color:orange;
+}
